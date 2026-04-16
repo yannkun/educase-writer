@@ -70,7 +70,7 @@ docx (for Word document output)
 Install Skill
 
 # Download skill package
-wget https://your-repo/regional-case-writer-v1.2.tar.gz
+wget https:https://github.com/yannkun/educase-writer
 
 # Install in Coze platform
 # 1. Navigate to Skills → Create Skill
@@ -291,7 +291,6 @@ MIT License - see LICENSE for details
 
 Developed by: Educational Informationization Research Team
 
-Contact: gousheng_edu@coze.email
 
 🌟 Star History
 
@@ -301,7 +300,7 @@ Contact: gousheng_edu@coze.email
 
 If you find this skill helpful, please consider giving it a ⭐️ star!
 
-Made with ❤️ for educational innovation
+
 
 </div>
 
